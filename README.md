@@ -18,7 +18,7 @@ sử dụng SQL để EDA và Tableau để visualization.
 - **CSV** — Data source
 
 ## 📊 Dashboard Preview
-![Dashboard](Dashboard_2.png.png)
+![Dashboard](sql\Dashboard_2.png.png)
 🔗 [View Interactive Dashboard]
 (https://public.tableau.com/views/LOANDEFAULTRISKANALYSIS_17784297362420/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
